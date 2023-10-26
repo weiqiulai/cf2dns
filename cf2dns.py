@@ -42,8 +42,8 @@ TYPE = 'v4'
 #腾讯云后台获取 https://console.cloud.tencent.com/cam/capi
 #阿里云后台获取 https://help.aliyun.com/document_detail/53045.html?spm=a2c4g.11186623.2.11.2c6a2fbdh13O53  注意需要添加DNS控制权限 AliyunDNSFullAccess
 #华为云后台获取 https://support.huaweicloud.com/devg-apisign/api-sign-provide-aksk.html
-SECRETID = 'WTTCWxxxxxxxxxxxxxxxxxxxxx84O0V'
-SECRETKEY = 'GXkG6D4X1Nxxxxxxxxxxxxxxxxxxxxx4lRg6lT'
+SECRETID = 'AKIDkLirlRs6pKbeT3PWP3SdahaFiy3vfBUZ'
+SECRETKEY = '5wYw50e3ECvQhjX6MVSCRTSFoBOPDnBS'
 
 log_cf2dns = Logger('cf2dns.log', level='debug') 
 
